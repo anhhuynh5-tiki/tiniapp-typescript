@@ -1,5 +1,6 @@
 Page({
   onLoad() {
-    console.log('aaa');
+    console.log('onLoad');
   },
+  onShow() {},
 });
